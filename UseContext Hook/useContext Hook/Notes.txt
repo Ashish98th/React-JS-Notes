@@ -1,0 +1,3 @@
+React’s useContext hook makes it easy to pass data throughout your app without manually passing props down the tree.
+
+Most of the React Hooks give function components capabilities they didn’t have before. The useContext hook is a little different though: It just makes things nicer.
